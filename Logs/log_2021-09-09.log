@@ -1,0 +1,14 @@
+09-09-21 15:57:00 - [!] - Iniciando limpesa de arquivo LOG RabbitMQ
+09-09-21 15:57:00 - [+] - Caminho do arquivo para exclusão encontrado.
+09-09-21 15:57:00 - [!] - Excluindo arquivo...
+09-09-21 15:57:00 - [X] - Erro ao tentar remover o arquivo ou o arquivo não foi encontrado.
+09-09-21 15:57:00 - [WinError 2] O sistema não pode encontrar o arquivo especificado: 'C:\\Users\\rocarmo\\Documents\\ARQUIVO_TESTE.txt'
+09-09-21 15:57:00 - ---------------------------------------------------
+
+09-09-21 15:57:01 - [!] - Iniciando limpesa de arquivo LOG RabbitMQ
+09-09-21 15:57:01 - [+] - Caminho do arquivo para exclusão encontrado.
+09-09-21 15:57:01 - [!] - Excluindo arquivo...
+09-09-21 15:57:01 - [X] - Erro ao tentar remover o arquivo ou o arquivo não foi encontrado.
+09-09-21 15:57:01 - [WinError 2] O sistema não pode encontrar o arquivo especificado: 'C:\\Users\\rocarmo\\Documents\\ARQUIVO_TESTE.txt'
+09-09-21 15:57:01 - ---------------------------------------------------
+
